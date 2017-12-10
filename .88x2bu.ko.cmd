@@ -1,0 +1,1 @@
+cmd_/home/bijju/Downloads/rtl8822bu-drivers/Asus_USB-AC53_rtl8822bu/88x2bu.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/bijju/Downloads/rtl8822bu-drivers/Asus_USB-AC53_rtl8822bu/88x2bu.ko /home/bijju/Downloads/rtl8822bu-drivers/Asus_USB-AC53_rtl8822bu/88x2bu.o /home/bijju/Downloads/rtl8822bu-drivers/Asus_USB-AC53_rtl8822bu/88x2bu.mod.o ;  true
