@@ -5,11 +5,11 @@
   RTL8822BU chipset <br />
   
 # Instruction: 
-make dkms-install <br />
 make clean <br />
 make <br />
-make test <br />
 make install <br />
+modprobe -v 88x2bu <br />
+Output: insmod /lib/modules/4.13.16-302.fc27.x86_64/kernel/drivers/net/wireless/88x2bu.ko
 
 
 # Testing:
